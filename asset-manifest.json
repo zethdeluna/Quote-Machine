@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zethdeluna/Quote-Machine/static/css/main.c691a57c.chunk.css",
-    "main.js": "/zethdeluna/Quote-Machine/static/js/main.f0ff6506.chunk.js",
-    "main.js.map": "/zethdeluna/Quote-Machine/static/js/main.f0ff6506.chunk.js.map",
-    "runtime-main.js": "/zethdeluna/Quote-Machine/static/js/runtime-main.814e9bf5.js",
-    "runtime-main.js.map": "/zethdeluna/Quote-Machine/static/js/runtime-main.814e9bf5.js.map",
-    "static/js/2.f661595f.chunk.js": "/zethdeluna/Quote-Machine/static/js/2.f661595f.chunk.js",
-    "static/js/2.f661595f.chunk.js.map": "/zethdeluna/Quote-Machine/static/js/2.f661595f.chunk.js.map",
-    "static/js/3.4a779cfd.chunk.js": "/zethdeluna/Quote-Machine/static/js/3.4a779cfd.chunk.js",
-    "static/js/3.4a779cfd.chunk.js.map": "/zethdeluna/Quote-Machine/static/js/3.4a779cfd.chunk.js.map",
-    "index.html": "/zethdeluna/Quote-Machine/index.html",
-    "static/css/main.c691a57c.chunk.css.map": "/zethdeluna/Quote-Machine/static/css/main.c691a57c.chunk.css.map",
-    "static/js/2.f661595f.chunk.js.LICENSE.txt": "/zethdeluna/Quote-Machine/static/js/2.f661595f.chunk.js.LICENSE.txt"
+    "main.css": "/Quote-Machine/static/css/main.c691a57c.chunk.css",
+    "main.js": "/Quote-Machine/static/js/main.f0ff6506.chunk.js",
+    "main.js.map": "/Quote-Machine/static/js/main.f0ff6506.chunk.js.map",
+    "runtime-main.js": "/Quote-Machine/static/js/runtime-main.e977fe78.js",
+    "runtime-main.js.map": "/Quote-Machine/static/js/runtime-main.e977fe78.js.map",
+    "static/js/2.f661595f.chunk.js": "/Quote-Machine/static/js/2.f661595f.chunk.js",
+    "static/js/2.f661595f.chunk.js.map": "/Quote-Machine/static/js/2.f661595f.chunk.js.map",
+    "static/js/3.4a779cfd.chunk.js": "/Quote-Machine/static/js/3.4a779cfd.chunk.js",
+    "static/js/3.4a779cfd.chunk.js.map": "/Quote-Machine/static/js/3.4a779cfd.chunk.js.map",
+    "index.html": "/Quote-Machine/index.html",
+    "static/css/main.c691a57c.chunk.css.map": "/Quote-Machine/static/css/main.c691a57c.chunk.css.map",
+    "static/js/2.f661595f.chunk.js.LICENSE.txt": "/Quote-Machine/static/js/2.f661595f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.814e9bf5.js",
+    "static/js/runtime-main.e977fe78.js",
     "static/js/2.f661595f.chunk.js",
     "static/css/main.c691a57c.chunk.css",
     "static/js/main.f0ff6506.chunk.js"
